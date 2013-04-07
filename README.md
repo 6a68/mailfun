@@ -9,3 +9,7 @@ Everything from input stream to final display layout is hackable and modular. Bu
 The goal: to build a hacker's delight of a mail platform.
 
 TODO: replace manifesto with real code
+
+* time for hohpe.
+* it's a set of queues, eh?
+* incoming, outgoing, editor, storage, indexing. blah.
