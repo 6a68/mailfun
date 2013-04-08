@@ -12,4 +12,6 @@ TODO: replace manifesto with real code
 
 * time for hohpe.
 * it's a set of queues, eh?
+  * zmq? rabbit? generic bindings?
 * incoming, outgoing, editor, storage, indexing. blah.
+  * specific storage? generic bindings?
